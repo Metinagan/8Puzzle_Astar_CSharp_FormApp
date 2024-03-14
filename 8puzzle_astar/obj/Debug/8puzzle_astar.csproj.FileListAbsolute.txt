@@ -1,0 +1,10 @@
+C:\Users\Metin\Desktop\C# repos\8puzzle_astar\8puzzle_astar\bin\Debug\8puzzle_astar.exe.config
+C:\Users\Metin\Desktop\C# repos\8puzzle_astar\8puzzle_astar\bin\Debug\8puzzle_astar.exe
+C:\Users\Metin\Desktop\C# repos\8puzzle_astar\8puzzle_astar\bin\Debug\8puzzle_astar.pdb
+C:\Users\Metin\Desktop\C# repos\8puzzle_astar\8puzzle_astar\obj\Debug\8puzzle_astar.csproj.AssemblyReference.cache
+C:\Users\Metin\Desktop\C# repos\8puzzle_astar\8puzzle_astar\obj\Debug\_8puzzle_astar.Form1.resources
+C:\Users\Metin\Desktop\C# repos\8puzzle_astar\8puzzle_astar\obj\Debug\_8puzzle_astar.Properties.Resources.resources
+C:\Users\Metin\Desktop\C# repos\8puzzle_astar\8puzzle_astar\obj\Debug\8puzzle_astar.csproj.GenerateResource.cache
+C:\Users\Metin\Desktop\C# repos\8puzzle_astar\8puzzle_astar\obj\Debug\8puzzle_astar.csproj.CoreCompileInputs.cache
+C:\Users\Metin\Desktop\C# repos\8puzzle_astar\8puzzle_astar\obj\Debug\8puzzle_astar.exe
+C:\Users\Metin\Desktop\C# repos\8puzzle_astar\8puzzle_astar\obj\Debug\8puzzle_astar.pdb
